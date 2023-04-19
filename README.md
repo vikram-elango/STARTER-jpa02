@@ -8,23 +8,22 @@
 * TODO: Correct the links to repo below, 
   then delete this TODO.  Replace it with 
   a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f22/jpa02-cgaucho
+  https://github.com/ucsb-cs156-s23/jpa02-cgaucho
 
-Repo: https://ucsb-cs156-f22/STARTER-jpa02
+Repo: https://ucsb-cs156-s23/STARTER-jpa02
 
-* TODO: Correct the links to app on Heroku below, 
+* TODO: Correct the "deployed at" link to app on Heroku or Render below, 
   then delete this TODO.  Replace it with 
   a link to your running app on Heroku, e.g.
-  https://cs156-f22-jpa02-cgaucho.herokuapp.com
+  https://jpa02-cgaucho.herokuapp.com or https://jpa02-cgaucho.onrender.com
 
 
-On Heroku: https://cs156-f22-jpa02-cgaucho.herokuapp.com
+Deployed at: https://jpa02-cgaucho.herokuapp.com
 
 
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
-
 
 # What can you do with this code?
 
