@@ -24,4 +24,4 @@ COPY pom.xml /home/app
 
 RUN mvn -B -DskipTests -f /home/app/pom.xml clean package
 
-ENTRYPOINT ["java -jar /home/app/target/*.jar"]
+ENTRYPOINT ["sh", "-c", "java -jar /home/app/target/*.jar"]
