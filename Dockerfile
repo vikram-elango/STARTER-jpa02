@@ -23,6 +23,6 @@ COPY frontend /home/app/frontend
 COPY lombok.config /home/app
 COPY pom.xml /home/app
 
-RUN mvn -B -Pproduction -Ph2 -DskipTests -f /home/app/pom.xml clean package
+RUN mvn -B -DskipTests -f /home/app/pom.xml clean package
 
 ENTRYPOINT ["java","-jar","/home/app/target/example-1.1.0.jar"]
